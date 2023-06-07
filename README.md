@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunni3722&show_icons=true&theme=radical)
 
 <!--
-**sunni3722/sunni3722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sunni546/sunni546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
