@@ -2,6 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunni546&show_icons=true&theme=radical)
 
+#### skill
+Java, SpringBoot, Python,  Flask, SQLAlchemy, JWT, REST API, AWS 등
+
 <!--
 **sunni546/sunni546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
