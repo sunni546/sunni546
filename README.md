@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunni546&show_icons=true&theme=radical)
 
-#### skill
+### skill
 Java, SpringBoot, Python,  Flask, SQLAlchemy, JWT, REST API, AWS 등
 
 <!--
