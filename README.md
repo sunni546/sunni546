@@ -13,8 +13,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00.svg?&style=for-the-badge&logo=SQLAlchemy&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00.svg?&style=for-the-badge&logo=SQLAlchemy&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
