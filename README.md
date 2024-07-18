@@ -4,8 +4,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunni546)](https://solved.ac/sunni546/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunni546&show_icons=true&theme=radical)
-
 ## 💪Skills
 
 ### Platforms & Languages
